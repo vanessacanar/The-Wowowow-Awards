@@ -1,0 +1,110 @@
+.artist {
+    height: 300px; 
+}
+
+.movie {
+    height: 500px;
+}
+
+.movietwo {
+    height: 500px;
+}
+
+.tvshow {
+    height: 300px;
+}
+
+.tvshowtwo {
+    height: 300px;
+}
+
+.game {
+    height: 320px;
+    width:600px;
+}
+
+.gametwo {
+    height: 320px;
+}
+
+body {
+    text-align:center;
+    }
+    
+body{
+    background: url("https://66.media.tumblr.com/4f3cbb1b66a76a19a9794a162373abc5/tumblr_inline_n258pbAEBc1qhwjx8.png");
+    }
+
+.ag { 
+    font-family: 'Happy Monkey', cursive;
+    font-size: 22px;
+    color:#dd99ff;
+}
+
+.agtwo { 
+    font-family: 'Happy Monkey', cursive;
+    font-size: 19px;
+    color:#dd99ff;
+}
+
+marquee.ag a {
+    color: #dd99ff;
+}
+
+.marvel {
+    font-family: 'Marvel', sans-serif;
+    font-size: 25px;
+    color: #3399ff;
+}
+
+.marveltwo {
+    font-family: 'Marvel', sans-serif;
+    font-size: 22px;
+    color: #3399ff;
+}
+
+marquee.marvel a {
+    color: #3399ff;
+}
+
+.tv {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 23.5px;
+    color:#009999;
+}
+
+.tvtwo {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 21.5px;
+    color:#009999;
+}
+
+marquee.tv a {
+    color: #009999;
+}
+
+.ow {
+    font-family: 'Farsan', cursive;
+    font-size: 28px;
+    color:white;
+}
+
+marquee.ow a {
+    color: white;
+}
+
+.owtwo {
+    font-size: 25px;
+    font-family: 'Farsan', cursive;
+    color:white;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    color:#ff99ff;
+}
+
+h2 {
+    text-decoration: underline;
+}
